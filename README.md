@@ -43,3 +43,18 @@ Visualize the results by running the *result.ipynb* Jupyter notebook.
 ## Metrics
 
 All the metrics for each model is stored in *df_res.csv*
+
+## Citation
+
+If you use this code in your research, please cite it as:
+
+```bibtex
+@inproceedings{todo2023counterfactual,
+  title={Counterfactual Explanation for Multivariate Times Series Using A Contrastive Variational Autoencoder},
+  author={Todo, William and Selmani, Merwann and Laurent, B{\'e}atrice and Loubes, Jean-Michel},
+  booktitle={ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={1--5},
+  year={2023},
+  organization={IEEE}
+}
+```
