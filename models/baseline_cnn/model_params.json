@@ -1,0 +1,1 @@
+{"input_channels": 12, "length_ts": 256, "n_filters_c1": 64, "size_filters_c1": 5, "n_filters_c2": 128, "size_filters_c2": 5, "n_filters_c3": 256, "size_filters_c3": 3, "n_filters_c4": 512, "size_filters_c4": 3, "n_fc": 512, "n_outputs": 5}

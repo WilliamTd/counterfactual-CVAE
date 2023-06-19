@@ -1,0 +1,4 @@
+torch==1.11.0+cu113
+wfdb==3.4.1
+numpy==1.21.6
+umap-learn==0.5.3

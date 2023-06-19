@@ -1,0 +1,1 @@
+{"batch_size": 64, "early_stopping": 60, "lr": 0.0001, "max_epochs": 300, "random_state": 42, "reduce_lr_patience": 25, "scaling_param": 0.3, "scaling_proba": 0.5, "test_fold": 10}
